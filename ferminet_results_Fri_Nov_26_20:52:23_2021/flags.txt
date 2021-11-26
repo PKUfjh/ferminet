@@ -1,0 +1,1 @@
+--batch_size 1024 --pretrain_iterations 200 --iterations 200
